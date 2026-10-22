@@ -1,5 +1,5 @@
 # CS036
-name
-usn
-batch
-wt u doing in this lab
+Name:Laxmi Dolli
+USN:2KD25CS036
+Branch:Computer Science and Engineering
+Semester:3rd sem
